@@ -1,0 +1,8 @@
+## Generated Story 4437694660206390439
+* inform{"location": "berlin"}
+    - slot{"location": "berlin"}
+    - action_weather
+    - slot{"location": "berlin"}
+* goodbye
+    - utter_goodbye
+
